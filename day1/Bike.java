@@ -8,7 +8,7 @@ public class Bike {
         String brandname = "hero honda";
         char logo = 'h';
         float fuelcapacity = 5f;
-        long contactnumber = 78965412336l;
+        long contactnumber = 7896541325659565659595362656956265662336l;
         
         System.out.println("price");
         System.out.println("fuelcapacity is :" + fuelcapacity);
